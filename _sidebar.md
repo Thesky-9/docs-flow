@@ -1,0 +1,9 @@
+- Getting started
+  - [Quick start](installation.md)
+  - [Ssl](ssl.md)
+- Prologue
+  - [Releases](releases.md)
+  - [License](license.md)
+- Available plugins
+  - [Analytics](plugin-analytics.md)
+  - [Backup](plugin-backup.md)
