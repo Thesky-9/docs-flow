@@ -32,7 +32,7 @@ php artisan cms:backup:restore [backup date]
 
 Ex:
 ```bash
-php artisan cms:backup:restore 2020-04-28 10-05-24
+php artisan cms:backup:restore 2021-05-28 10-05-24
 ```
 
 - Delete a backup
@@ -44,7 +44,7 @@ php artisan cms:backup:remove [backup date]
 Ex: 
 
 ```bash
-php artisan cms:backup:remove 2020-04-28 10-05-24
+php artisan cms:backup:remove 2021-05-28 10-05-24
 ```
 
 - List all backups:

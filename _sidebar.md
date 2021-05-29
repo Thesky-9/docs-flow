@@ -1,6 +1,13 @@
 - Getting started
-  - [Quick start](installation.md)
+  - [Introduction](README.md)
+  - [Requirement](requirement.md)
+  - [Quick start](install-on-hosting.md)
+    - [Install on hosting](install-on-hosting.md)
+    - [Install on vps](install-on-vps.md)
   - [Ssl](ssl.md)
+- General
+  - [Custom Site Identity](general.md)
+  - [Translate](translate.md)
 - Prologue
   - [Releases](releases.md)
   - [License](license.md)
