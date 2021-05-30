@@ -5,9 +5,13 @@
     - [Install on hosting](install-on-hosting.md)
     - [Install on vps](install-on-vps.md)
   - [Ssl](ssl.md)
-- General
+- User guide
   - [Custom Site Identity](general.md)
+  - [Menu](menu.md)
+  - [Custom CSS & JS](cssjs.md)
   - [Translate](translate.md)
+- [Short code](shortcode.md)
+- [Config](config.md)
 - Prologue
   - [Releases](releases.md)
   - [License](license.md)
