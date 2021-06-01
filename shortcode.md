@@ -119,3 +119,20 @@
 > Setting
 
 ![post-sidebar-2](_images/shortcodes/post-sidebar-2.png)
+
+## Featured grid
+
+> Overview
+
+![Featured](_images/shortcodes/post-sidebar-1.png)
+
+
+## Contact form
+
+> Overview
+
+![contact-form-1](_images/shortcodes/contact-form-1.png)
+
+> Setting
+
+![contact-form-2](_images/shortcodes/contact-form-2.png)
