@@ -8,7 +8,7 @@ Open file `.env` and update your database credentials (if `.env` file is not exi
 
 Create a database and import data from database.sql (it's located in source code).
 
-  ![Database](_images/installation/50969326586_8edcb3c6f9_b.jpeg)
+  ![Database](_images/installation/folder-flow.png)
 
 - Make sure `APP_URL` in `.env` is correct your domain. It should be `APP_URL=http://your-domain.com`
 - Go to `/admin` to access to admin panel.

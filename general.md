@@ -1,4 +1,4 @@
-## General
+# General
 
 > Go to __Admin -> Appearance -> Theme options__ options (tab __General__).
 
