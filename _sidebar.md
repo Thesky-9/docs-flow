@@ -1,3 +1,7 @@
+- Prologue
+  - [Releases](releases.md)
+  - [Upgrade](upgrade.md)
+  - [License](license.md)
 - Getting started
   - [Introduction](README.md)
   - [Requirement](requirement.md)
@@ -12,9 +16,6 @@
   - [Translate](translate.md)
 - [Short code](shortcode.md)
 - [Config](config.md)
-- Prologue
-  - [Releases](releases.md)
-  - [License](license.md)
 - Available plugins
   - [Analytics](plugin-analytics.md)
   - [Backup](plugin-backup.md)
