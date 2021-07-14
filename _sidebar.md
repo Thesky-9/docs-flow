@@ -17,6 +17,7 @@
 - [Short code](shortcode.md)
 - [Config](config.md)
 - Available plugins
+  - [Post scheduler](plugin-post-scheduler.md)
   - [Ads](plugin-ads.md)
   - [Analytics](plugin-analytics.md)
   - [Backup](plugin-backup.md)

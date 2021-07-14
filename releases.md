@@ -1,5 +1,21 @@
 # Release Notes
 
+## 1.3.0 ( Jul 14, 2021 )
+
+> Theme 
+
+- Add plugin post schedule
+
+> Backend
+
+- Add Wasabi cloud storage support.
+- Allow to config the default placeholder image.
+- Improve media, translations & backup.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
+- Fix some bugs on PHP 8.
+
 ## 1.2.0 ( June 21, 2021 )
 
 > Theme 
