@@ -1,5 +1,15 @@
 # Release Notes
 
+## 1.4.0 ( Jul 27, 2021 )
+
+
+> Backend
+
+- Update CKEditor and TinyMCE to the latest version (version 5).
+- Update media: Add a button to download media files from URL.
+- Able to add multiple admin emails in Admin -> Settings -> General.
+- Big change on blog categories. Hierarchical tree structured category https://prnt.sc/1g4dr0n.
+
 ## 1.3.0 ( Jul 14, 2021 )
 
 > Theme 
