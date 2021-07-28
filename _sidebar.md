@@ -5,9 +5,8 @@
 - Getting started
   - [Introduction](README.md)
   - [Requirement](requirement.md)
-  - [Quick start](install-on-hosting.md)
-    - [Install on hosting](install-on-hosting.md)
-    - [Install on vps](install-on-vps.md)
+  - [Install on hosting](install-on-hosting.md)
+  - [Install on vps](install-on-vps.md)
   - [Ssl](ssl.md)
 - User guide
   - [Custom Site Identity](general.md)
