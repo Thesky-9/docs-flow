@@ -11,6 +11,7 @@
 - User guide
   - [Custom Site Identity](general.md)
   - [Menu](menu.md)
+  - [Footer](footer.md)
   - [Custom CSS & JS](cssjs.md)
   - [Translate](translate.md)
 - [Short code](shortcode.md)
