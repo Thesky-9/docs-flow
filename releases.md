@@ -1,6 +1,11 @@
 # Release Notes
 
-## 1.5.0 ( Sun 01, 2021 )
+## 1.6.0 ( Aug 21, 2021 )
+
+- Support Table of Contents
+- Update core
+
+## 1.5.0 ( Aug 01, 2021 )
 
 > Theme 
 
