@@ -1,5 +1,14 @@
 # Release Notes
 
+## 2.0.0 ( Sep 03, 2021 )
+
+- Ajax comment system
+- Improve UI
+- Improve Blog & newsletter
+- Update email
+- Update core
+- Update watermark
+
 ## 1.6.0 ( Aug 21, 2021 )
 
 - Support Table of Contents
