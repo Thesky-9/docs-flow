@@ -1,5 +1,14 @@
 # Release Notes
 
+## 2.1.0 ( Sep 03, 2021 )
+
+- Fix comment
+- Fix avatar
+- Update core
+- Update comment & member
+- Update shortcode
+- Improve cookie consent
+
 ## 2.0.0 ( Sep 03, 2021 )
 
 - Ajax comment system
