@@ -1,6 +1,21 @@
 # Release Notes
 
-## 2.1.0 ( Sep 03, 2021 )
+## 2.2.0 ( Oct 25, 2021 )
+
+- Update translate plugin Comment
+- Improve plugin Analytics
+- Improve multi-language
+- Fix bugs update online
+- Backend upgrade core & fix bugs
+
+## 2.1.1 ( Oct 03, 2021 )
+
+- Fix migrate new version
+- Add support BunnyCDN cloud storage
+- Backend upgrade to bootstrap 5
+- Update core
+
+## 2.1.0 ( Oct 01, 2021 )
 
 - Fix comment
 - Fix avatar
