@@ -2,6 +2,7 @@
 
 ## 2.3.0 ( Nov 21, 2021 )
 
+- Add Shortcode gallery
 - Fix UI issue with select2 fields.
 - Fix Admin Bar settings.
 - Fix some small issues when upgrading to Bootstrap 5.
