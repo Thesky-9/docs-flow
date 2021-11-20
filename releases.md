@@ -1,5 +1,22 @@
 # Release Notes
 
+## 2.3.0 ( Nov 21, 2021 )
+
+- Fix UI issue with select2 fields.
+- Fix Admin Bar settings.
+- Fix some small issues when upgrading to Bootstrap 5.
+- Improve multi-language.
+- Improve updater, using PclZip if Zip module is not enabled.
+- Improve UI.
+- Improve slug package.
+- Improve shortcode.
+- Improve plugin Analytics, view analytics data by date range.
+- Improve core & UI.
+- Improve RTL mode.
+- Update to the latest Laravel version 8.72.0.
+- Optimize queries performance.
+
+
 ## 2.2.0 ( Oct 25, 2021 )
 
 - Update translate plugin Comment
