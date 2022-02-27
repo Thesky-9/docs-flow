@@ -1,5 +1,17 @@
 # Release Notes
 
+## 2.4.0 ( Feb 27, 2022 )
+
+- Fix S3 config.
+- Fix load comment.
+- Update plugin Ads.
+- Option off sidebar.
+- Improve plugin Comment.
+- Improve shortcode.
+- Improve core & UI.
+- Optimize queries performance.
+- Refactor code.
+
 ## 2.3.0 ( Nov 21, 2021 )
 
 - Add Shortcode gallery
