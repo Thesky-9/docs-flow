@@ -1,5 +1,13 @@
 # Release Notes
 
+## 2.5.0 ( Apr 20, 2022 )
+
+- Improve widgets
+- Add memory limit & max execution time info to system information page
+- Fix language advanced
+- Fix editor
+- Refactor code
+
 ## 2.4.0 ( Feb 27, 2022 )
 
 - Fix S3 config.
