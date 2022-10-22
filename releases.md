@@ -1,5 +1,17 @@
 # Release Notes
 
+## 2.6.0 ( Sat 22, 2022 )
+
+- Add get started package, show on the first installation.
+- Add an option to allow limit max upload filesize.
+- Fix pagespeed optimization and language route prefix.
+- Improve plugin Backup
+- Improve shortcode.
+- Improve core & UI.
+- Improve multi-language.
+- Optimize queries performance.
+- Refactor code.
+
 ## 2.5.0 ( Apr 20, 2022 )
 
 - Improve widgets
