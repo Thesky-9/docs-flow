@@ -1,5 +1,15 @@
 # Release Notes
 
+## 2.8 ( Jan 30, 2022 )
+
+- Add Google Fonts caching
+- Fix coding standard
+- Fix small bug
+- Fix get file size issue with Digital Ocean Spaces
+- Refactor code.
+- Improve multi-language
+- Fix Analytics & Make it work with GA4
+
 ## 2.7 ( Dec 26, 2022 )
 - Upgrade to Laravel framework 9.x
 - Drop PHP 7.x support.
