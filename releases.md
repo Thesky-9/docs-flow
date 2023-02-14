@@ -1,6 +1,16 @@
 # Release Notes
 
-## 2.8 ( Jan 30, 2022 )
+## 2.9 ( Feb 14, 2023 )
+
+- Fix small bug
+- Fix download translation locale
+- Purifier allow audio tag
+- Improve anlaytics, fix installer
+- Fix plugin Language
+- Update maintenance mode view & Add alt for image in Media
+- Add option to disable installer
+
+## 2.8 ( Jan 30, 2023 )
 
 - Add Google Fonts caching
 - Fix coding standard
