@@ -1,14 +1,21 @@
 # Release Notes
 
+## 2.10 ( Apr 20, 2023 )
+
+- Add page for author
+- Fix coding standard
+- Refactor code
+- Improve core UI
+
 ## 2.9 ( Feb 14, 2023 )
 
 - Fix small bug
 - Fix download translation locale
-- Purifier allow audio tag
-- Improve anlaytics, fix installer
+- Purifier allows the audio tag
+- Improve analytics, fix installer
 - Fix plugin Language
-- Update maintenance mode view & Add alt for image in Media
-- Add option to disable installer
+- Update maintenance mode view & Add alt for the image in Media
+- Add an option to disable the installer
 
 ## 2.8 ( Jan 30, 2023 )
 
