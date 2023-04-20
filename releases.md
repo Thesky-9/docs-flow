@@ -2,10 +2,14 @@
 
 ## 2.10 ( Apr 20, 2023 )
 
-- Add page for author
+- Add a page for the author
 - Fix coding standard
 - Refactor code
-- Improve core UI
+- Improve shortcode.
+- Improve core & UI.
+- Improve multi-language.
+- Optimize query performance.
+- Refactor code.
 
 ## 2.9 ( Feb 14, 2023 )
 
