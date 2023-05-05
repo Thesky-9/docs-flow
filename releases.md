@@ -1,10 +1,18 @@
 # Release Notes
 
+## 2.11 ( May 05, 2023 )
+
+- Fix plugin comment
+- Fix plugin member
+- Improve admin notification
+- Improve plugin system
+- Improve plugin management
+- Refactor code.
+
 ## 2.10 ( Apr 20, 2023 )
 
 - Add a page for the author
 - Fix coding standard
-- Refactor code
 - Improve shortcode.
 - Improve core & UI.
 - Improve multi-language.
