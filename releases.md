@@ -1,5 +1,35 @@
 # Release Notes
 
+## 3.0.0 (Dec 25, 2023)
+
+- Revamp admin theme, make it super beautiful.
+- Upgrade to Laravel 10.
+- Improve core code and performance.
+- Make it easier to customize
+
+## 2.12 ( Sep 16, 2023)
+
+- Add multi-language for email templates
+- Fix issue when switching default language
+- Fix watermark issues: missing watermark for images in sub-folder
+- Add properties/projects import & export to CSV
+- Fallback option for Google Fonts cache
+- Disable scroll effect in the admin panel
+- Fix og:site_name
+- Fix search properties/projects
+- Fix bug download images in Admin -> Media
+- Fix preview PDF file & bulk changes in table
+- Fix sitemap issue when enable pagespeed optimizer
+- Publish translation files when activate plugin / upgrade to the new version
+- Make editor translatable, display based on admin language
+- Improve loading performance
+- Improve system updater & performance
+- Improve UI for installer
+- Improve sitemap (add sitemap indexes)
+- Improve Google Analytics settings
+- Improve admin notifications, hide notification if current logged user don't have permission to see it
+
+
 ## 2.11 ( May 05, 2023 )
 
 - Fix plugin comment
