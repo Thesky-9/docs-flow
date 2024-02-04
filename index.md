@@ -18,7 +18,7 @@ Email: [contact@thesky9.com](mailto:contact@thesky9.com)
 
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file, 
 please feel free to email via my user page contact form [here](https://codecanyon.net.net/user/thesky9) for quickly support. Thank you so much!
-![intro](/_images/intro.jpg)		
+![intro](_images/intro.jpg)		
 <a name="demo"></a>
 ## Demo
 
