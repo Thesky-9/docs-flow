@@ -33,7 +33,7 @@ Password: `12345678`
 <a name="thesky9_team"></a>
 ## TheSky9 Team
 
-Visit us at [https://thesky9.com](thesky9.com)
+Visit us at [https://thesky9.com](https://thesky9.com)
 
 <a name="why_choose_us"></a>
 ## Why choose us
@@ -56,4 +56,4 @@ Admin template comes with color schemes to match your taste.
 <a name="thesky9_team"></a>
 ## TheSky9 Team
 
-Visit us at [https://thesky9.com](thesky9.com)
+Visit us at [https://thesky9.com](https://thesky9.com)
