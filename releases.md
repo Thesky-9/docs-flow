@@ -1,5 +1,13 @@
 # Release Notes
 
+## 3.2.0 (Feb 24, 2024)
+
+- Fix create menu
+- Fix media thumbnail
+- Improve email
+- Add custom CSS/JS for admin pane
+- Improve core & performance
+
 ## 3.1.0 (Jan 20, 2024)
 
 - Fix plugin Analytics when extension bcmath not enabled
