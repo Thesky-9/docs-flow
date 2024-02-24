@@ -18,7 +18,7 @@ Email: [contact@thesky9.com](mailto:contact@thesky9.com)
 
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file, 
 please feel free to email via my user page contact form [here](https://codecanyon.net.net/user/thesky9) for quickly support. Thank you so much!
-![intro](/_images/intro.jpg)		
+![intro](_images/intro.jpg)		
 <a name="demo"></a>
 ## Demo
 
@@ -33,7 +33,7 @@ Password: `12345678`
 <a name="thesky9_team"></a>
 ## TheSky9 Team
 
-Visit us at [https://thesky9.com](thesky9.com)
+Visit us at [https://thesky9.com](https://thesky9.com)
 
 <a name="why_choose_us"></a>
 ## Why choose us
@@ -56,4 +56,4 @@ Admin template comes with color schemes to match your taste.
 <a name="thesky9_team"></a>
 ## TheSky9 Team
 
-Visit us at [https://thesky9.com](thesky9.com)
+Visit us at [https://thesky9.com](https://thesky9.com)
