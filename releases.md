@@ -1,5 +1,52 @@
 # Release Notes
 
+## 3.4.0 (Oct 17, 2024)
+
+- Add Backblaze cloud storage support
+- Add more social login button styles
+- Add option to disable thumbnails generation when uploading images
+- Add jfif file support
+- Add term & privacy URL to theme options
+- Add option to disable cache options
+- Add missing translation texts
+- Add option to convert image to WebP when uploading to Admin -> Media
+- Add setting to change logo height in email template
+- Add option to set admin logo max height
+- Allow raw HTML code in static block
+- Expanded icon set with Tabler Icons (https://tabler.io/icons)
+- Include missing Google Fonts in the available list
+- Add support for .avif image format
+- Enhance UI block 'Custom HTML' with code formatting
+- Introduce option to limit image upload dimensions (width & height)
+- Fix RTL issue in contact form
+- Fix categories tree in post form
+- Add option to change post's author
+- Fix missing translations in email templates
+- Fix download language files from GitHub, it was missing translations for theme
+- Improve media settings, prevent errors when enter wrong settings
+- Improve admin panel UI, fix RTL issues
+- Improve sitemap cache, fix cache is not refreshed when changing language
+- Improve cache for better performance
+- Optimize database queries for improved multi-language support
+- Enhance caching mechanism for better performance
+- Refine and optimize source code for efficiency
+- Update third-party libraries to the latest version
+- 
+## 3.3.0 (May 13, 2024)
+
+- Improve performance & front theme UI
+- Fix memory limit warning
+- Fix duplicate language when installing using UI
+- Fix duplicate editor field when using show/hide editor button
+- Add search box for UI blocks
+- Add Open Graph Image into SEO box
+- Add option to upload/modify robots.txt file
+- Add some new Google fonts to the list of fonts for theme
+- Improve captcha: add option to enable captcha for admin login page
+- Improve table: fix responsive table buttons
+- Improve theme translations: add button to import missing theme translation texts
+- Improve social login: add Facebook Data deletion request callback & improve default style
+
 ## 3.2.0 (Feb 24, 2024)
 
 - Fix create menu
