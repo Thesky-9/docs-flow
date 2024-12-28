@@ -1,7 +1,7 @@
 # Requirement
 
 - Apache, nginx, or another compatible web server.
-- PHP >= 7.3 >> Higher
+- PHP >= 8.2.0
 - MySQL Database server
 - BCMath PHP Extension
 - Ctype PHP Extension
