@@ -1,5 +1,21 @@
 # Release Notes
 
+## 4.1.0 (Apr 30, 2025)
+
+- Upgrade to Laravel 12.0, support PHP 8.3
+- Update CKEditor, Google Fonts and Tabler icons
+- Add plugin FOB Comment
+- Add an option to turn off post approval.
+- Add an option to permanently delete media files, bypassing the trash.
+- Add support some new HTML tags
+- Add Bootstrap Grid Columns button to editor https://prnt.sc/kZwPbJqp3Qpj
+- Improve backup: add option to backup database only
+- Improve UI front theme and admin panel
+- Improve cache for better performance
+- Optimize source code
+- Update third-party libraries to the latest version
+
+
 ## 4.0.0 (Dec 28, 2024)
 
 - Change minimum PHP version: Require PHP 8.2.0 or higher.
