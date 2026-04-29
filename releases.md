@@ -1,5 +1,15 @@
 # Release Notes
 
+## 5.0.0 (Apr 29, 2026)
+
+- Big update: Upgrade to Laravel 13 framework
+- Drop PHP 8.2 support, require PHP 8.3+ (supports PHP 8.4)
+- Migrate asset pipeline to Vite
+- Improve post scheduler plugin
+- Rebuild assets, update third-party libraries to the latest version
+- Improve cache and overall performance
+- Optimize source code
+
 ## 4.1.0 (Apr 30, 2025)
 
 - Upgrade to Laravel 12.0, support PHP 8.3
@@ -14,7 +24,6 @@
 - Improve cache for better performance
 - Optimize source code
 - Update third-party libraries to the latest version
-
 
 ## 4.0.0 (Dec 28, 2024)
 
